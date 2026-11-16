@@ -1,0 +1,15 @@
+{
+  "salmon_version": "2.8.0",
+  "index": "../inputs/human_salmon_index",
+  "libType": "A",
+  "output": "../outputs/salmon_out/SRR1039511",
+  "mates1": [
+    "../fastq/SRR1039511_1.fastq.gz"
+  ],
+  "mates2": [
+    "../fastq/SRR1039511_2.fastq.gz"
+  ],
+  "unmatedReads": [],
+  "threads": 4,
+  "sketch": false
+}
